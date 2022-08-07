@@ -1,4 +1,4 @@
-# Disease_Classification_DL
+# Tomato_Disease_Classification_DL
 This is a practical Deep learning project for image classification.
 •	API-based model is developed using Fastapi, CNN, data augmentation, resizing and rescaling on the tomato image dataset from Kaggle.
 •	Running by tf serving on localhost with the output class & % confidence.
